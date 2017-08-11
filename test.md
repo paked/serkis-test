@@ -1,1 +1,2 @@
-hello world\n fuck you!\n
+Hey!\n
+How about that.
